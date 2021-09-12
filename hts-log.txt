@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Sep 2021 18:09:54 at https://ofgame.club/PUBG/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ofgame.club/PUBG/ -O1 "Z:\home\minoux\Public\pubg" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:10:48	Error: 	"Not Found" (404) at link example.com/image.jpg (from https://ofgame.club/PUBG/)
+18:11:56	Error: 	"Not Found" (404) at link https://ofgame.club/PUBG/img/verify.html (from https://ofgame.club/PUBG/)
+18:11:58	Warning: 	File not parsed, looks like binary: https://ofgame.club/PUBG/fonts/bebasneue_bold-webfont.html
+18:11:58	Warning: 	Warning: store application/octet-stream without scan: Z:/home/minoux/Public/pubg/ofgame.club/PUBG/fonts/bebasneue_bold-webfont.html
+18:11:58	Warning: 	File not parsed, looks like binary: https://ofgame.club/PUBG/fonts/bebasneue_regular-webfont.html
+18:11:58	Warning: 	Warning: store application/octet-stream without scan: Z:/home/minoux/Public/pubg/ofgame.club/PUBG/fonts/bebasneue_regular-webfont.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 6 seconds : 64 links scanned, 61 files written (3175505 bytes overall) [2359143 bytes received at 18723 bytes/sec], 1258577 bytes transferred using HTTP compression in 29 files, ratio 33%
+(2 errors, 4 warnings, 0 messages)
